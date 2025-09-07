@@ -1,0 +1,5 @@
+date,region,product_type,sales
+2023-01-01,North,Beer,120
+2023-01-01,North,Wine,80
+2023-01-01,South,Spirits,150
+...
